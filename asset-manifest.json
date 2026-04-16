@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/nat19bingo/static/css/main.c1ecc1f3.chunk.css",
-    "main.js": "/nat19bingo/static/js/main.0d0820cd.chunk.js",
-    "main.js.map": "/nat19bingo/static/js/main.0d0820cd.chunk.js.map",
+    "main.js": "/nat19bingo/static/js/main.c109e8e9.chunk.js",
+    "main.js.map": "/nat19bingo/static/js/main.c109e8e9.chunk.js.map",
     "runtime-main.js": "/nat19bingo/static/js/runtime-main.d3df5028.js",
     "runtime-main.js.map": "/nat19bingo/static/js/runtime-main.d3df5028.js.map",
     "static/css/2.4be38407.chunk.css": "/nat19bingo/static/css/2.4be38407.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4be38407.chunk.css",
     "static/js/2.c0bc4cd4.chunk.js",
     "static/css/main.c1ecc1f3.chunk.css",
-    "static/js/main.0d0820cd.chunk.js"
+    "static/js/main.c109e8e9.chunk.js"
   ]
 }
