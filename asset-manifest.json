@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/nat19bingo/static/css/main.c1ecc1f3.chunk.css",
-    "main.js": "/nat19bingo/static/js/main.52e092f9.chunk.js",
-    "main.js.map": "/nat19bingo/static/js/main.52e092f9.chunk.js.map",
+    "main.css": "/nat19bingo/static/css/main.134bcaf2.chunk.css",
+    "main.js": "/nat19bingo/static/js/main.e93d681a.chunk.js",
+    "main.js.map": "/nat19bingo/static/js/main.e93d681a.chunk.js.map",
     "runtime-main.js": "/nat19bingo/static/js/runtime-main.d3df5028.js",
     "runtime-main.js.map": "/nat19bingo/static/js/runtime-main.d3df5028.js.map",
     "static/css/2.4be38407.chunk.css": "/nat19bingo/static/css/2.4be38407.chunk.css",
@@ -10,16 +10,16 @@
     "static/js/2.c0bc4cd4.chunk.js.map": "/nat19bingo/static/js/2.c0bc4cd4.chunk.js.map",
     "index.html": "/nat19bingo/index.html",
     "static/css/2.4be38407.chunk.css.map": "/nat19bingo/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.c1ecc1f3.chunk.css.map": "/nat19bingo/static/css/main.c1ecc1f3.chunk.css.map",
+    "static/css/main.134bcaf2.chunk.css.map": "/nat19bingo/static/css/main.134bcaf2.chunk.css.map",
     "static/js/2.c0bc4cd4.chunk.js.LICENSE.txt": "/nat19bingo/static/js/2.c0bc4cd4.chunk.js.LICENSE.txt",
     "static/media/ggbingo.css": "/nat19bingo/static/media/GilligansGraveLogo full height.b99fc46e.png",
-    "static/media/jjbingo.css": "/nat19bingo/static/media/N19Logol.229fa328.png"
+    "static/media/jjbingo.css": "/nat19bingo/static/media/JJLogo.1fd51e6e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d3df5028.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.c0bc4cd4.chunk.js",
-    "static/css/main.c1ecc1f3.chunk.css",
-    "static/js/main.52e092f9.chunk.js"
+    "static/css/main.134bcaf2.chunk.css",
+    "static/js/main.e93d681a.chunk.js"
   ]
 }
